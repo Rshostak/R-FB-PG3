@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #test commit
+=======
+>>>>>>> master
 # add line
 
 # Set working directory and import datafiles
