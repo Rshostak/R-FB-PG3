@@ -1,3 +1,6 @@
+#test commit
+# add line
+
 # Set working directory and import datafiles
 #install.packages('RGtk2')
 #install.packages('rattle')
@@ -25,7 +28,6 @@ library(RColorBrewer)
 
 #library(lattice)
 #library(ggplot2)
-#library(caret)
 
 require(magrittr)
 require(dplyr)        #for createDataPartition
