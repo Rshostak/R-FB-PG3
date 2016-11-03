@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+#test commit
+=======
+>>>>>>> master
 # add line
 
 # Set working directory and import datafiles
@@ -27,7 +31,6 @@ library(RColorBrewer)
 
 #library(lattice)
 #library(ggplot2)
-#library(caret)
 
 require(magrittr)
 require(dplyr)        #for createDataPartition
